@@ -1,4 +1,4 @@
-# Generating-Betting-Insight-for-Individual-NBA-Player-Performance
+# Generating Betting Insight for Individual NBA Player Performance
 
 README: 
 
